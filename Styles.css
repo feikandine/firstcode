@@ -1,1 +1,14 @@
+*{
+    margin: 0;
+    border-block: 0;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: azure;
+}
+.navbar{
+    display: flex;
+    justify-content:center ;
+}
 
